@@ -1,5 +1,8 @@
 _repo: The-Negro-Migrant-in-Pittsburgh_67349
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67349-h/images/cover.jpg
 creator:
   author:
     agent_name: Epstein, Abraham
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '53427'
     url: http://www.gutenberg.org/2009/agents/53427
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67349#The-Negro-Migrant-in-Pittsburgh
 gutenberg_issued: '2022-02-07'
 identifiers:
   gutenberg: '67349'
